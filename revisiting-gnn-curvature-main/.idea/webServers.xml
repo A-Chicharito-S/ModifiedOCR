@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="c69aa990-12fb-4ad1-949e-91d4be6d7d26" name="borf">
+        <fileTransfer accessType="SFTP" host="gpu28" port="22" sshConfigId="97bcf436-ab79-41f3-bbfd-b0c30ccad2f6" sshConfig="yuchens3@gpu28:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

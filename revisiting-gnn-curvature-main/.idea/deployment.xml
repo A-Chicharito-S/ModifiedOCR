@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="borf" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="borf">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/zfsauton2/home/yuchens3/revisiting-gnn-curvature-main" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
